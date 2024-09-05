@@ -74,4 +74,4 @@ I am a Frontend developer 💻 with 3 years experience. Being an Software Develo
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Dostonbek](https://github.com/dostonbekabdumuxtorov)
+[Vasliddin](https://github.com/vasliddinasronbekov)
