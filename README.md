@@ -6,14 +6,14 @@ I am a Frontend developer 💻 with 3 years experience. Being an Software Develo
   
 ## 🤝 Connect with me  
 <div align="start">
-<a href="https://linkedin.com/in/dostonbek-abdumuxtorov/" target="_blank">
+<a href="https://linkedin.com/in/vasliddin-asronbekov/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://abdumuxtorov.dostonbek.main@gmail.com" target="_blank">
+<a href="https://vasliddin.dev" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>  
  </a>
-<a href="https://t.me/Dostonbek_Abdumuxtorov" target="_blank">
+<a href="https://t.me/Aronbekov" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white? alt=telegram style="margin-bottom: 5px;" />
 </a> 
 </a>
