@@ -13,13 +13,13 @@ I am a Software Engineer with over 3 years of experience specializing in full-st
 
 ## 🤝 Connect with me
 <div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/vasliddin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:vasliddin.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM_HANDLE" target="_blank">
+  <a href="https://t.me/Asronbekov" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
   </a>
 </div>
